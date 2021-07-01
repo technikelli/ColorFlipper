@@ -1,0 +1,59 @@
+h1{
+    float: left;
+}
+
+.ul-list{
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    color: chartreuse;
+    
+}
+
+a{
+    color:chartreuse;
+}
+
+ul{
+    float:left;
+}
+
+.ul-list a:hover {
+    color:hotpink;
+  }
+
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    right: 40%;
+    margin: -25px 0 0 -25px;
+    text-align: center;
+    background-color: black;
+    color: chartreuse;
+    border-radius: 50%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+
+h2 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.btn {
+    color:black;
+    background-color: greenyellow;
+    border-radius: 50%;
+    size: 20px;
+    font-size: large;
+}
+
+.btn:hover{
+    background-color:rgb(240, 47, 143);
+}
